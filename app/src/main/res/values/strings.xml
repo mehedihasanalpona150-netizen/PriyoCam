@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">xCam</string>
-    <string name="title_manager">xCam</string>
+    <string name="app_name">PriyoCamPro</string>
+    <string name="title_manager">PriyoCamPro</string>
     <string name="label_media_preview">Media Preview</string>
     <string name="label_none">None</string>
     <string name="btn_select_video">Select Media</string>
@@ -23,4 +23,3 @@
     <string name="label_last_route">Hook Route: %s</string>
     <string name="label_last_timestamp">Time: %s</string>
 </resources>
-
